@@ -1,0 +1,12 @@
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\bin\Debug\net6.0\BankKata.Logic.deps.json
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\bin\Debug\net6.0\BankKata.Logic.dll
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\bin\Debug\net6.0\BankKata.Logic.pdb
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\obj\Debug\net6.0\BankKata.Logic.csproj.AssemblyReference.cache
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\obj\Debug\net6.0\BankKata.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\obj\Debug\net6.0\BankKata.Logic.AssemblyInfoInputs.cache
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\obj\Debug\net6.0\BankKata.Logic.AssemblyInfo.cs
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\obj\Debug\net6.0\BankKata.Logic.csproj.CoreCompileInputs.cache
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\obj\Debug\net6.0\BankKata.Logic.dll
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\obj\Debug\net6.0\refint\BankKata.Logic.dll
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\obj\Debug\net6.0\BankKata.Logic.pdb
+C:\Users\ajay.nagaram\Documents\DigitzClub_Assignments\BankKata\BankKata.Logic\obj\Debug\net6.0\ref\BankKata.Logic.dll
